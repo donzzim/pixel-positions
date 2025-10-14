@@ -30,9 +30,6 @@
                 <x-tag>Customer Success</x-tag>
                 <x-tag>Finance</x-tag>
                 <x-tag>Human Resources</x-tag>
-                <x-tag>Legal</x-tag>
-                <x-tag>Product</x-tag>
-                <x-tag>Project Management</x-tag>
             </div>
         </section>
 
@@ -51,9 +48,9 @@
             <x-section-heading>Popular Jobs</x-section-heading>
 
             <div class="mt-6 space-y-6">
-                <x-panel>slc</x-panel>
-                <x-panel>slc</x-panel>
-                <x-panel>slc</x-panel>
+                <x-panel>teste</x-panel>
+                <x-panel>teste</x-panel>
+                <x-panel>teste</x-panel>
             </div>
 
         </section>
