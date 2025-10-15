@@ -44,9 +44,9 @@
             <x-section-heading>Popular Jobs</x-section-heading>
 
             <div class="mt-6 space-y-6">
-                <x-panel>teste</x-panel>
-                <x-panel>teste</x-panel>
-                <x-panel>teste</x-panel>
+                <x-panel>Job 1</x-panel>
+                <x-panel>Job 2</x-panel>
+                <x-panel>Job 3</x-panel>
             </div>
 
         </section>
