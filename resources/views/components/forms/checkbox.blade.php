@@ -5,7 +5,7 @@
         'type' => 'checkbox',
         'id' => $name,
         'name' => $name,
-        'value' => old($name),
+        'value' => old($name)
     ];
 @endphp
 
@@ -15,3 +15,4 @@
         <span class="pl-1">{{ $label }}</span>
     </div>
 </x-forms.field>
+
